@@ -1,0 +1,64 @@
+/* ..//assets/css/about.css */
+
+.about {
+    background-color: #f9f9f9;
+    color: #333;
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    max-width: 800px; /* Adjust the maximum width as needed */
+    margin: 20px auto; /* Center the box on the page */
+  }
+  
+  .about h1 {
+    color: #2c3e50;
+    text-align: center;
+    font-size: 2.5em;
+  }
+  
+  .about p {
+    font-size: 1.2em;
+    line-height: 1.5;
+    text-align: justify;
+  }
+  
+  .aboutcon {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .aboutcontainer {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .aboutcontainer h2 {
+    color: #3498db;
+    font-size: 2em;
+  }
+  
+  .aboutcontainer p {
+    font-size: 1.1em;
+    line-height: 1.6;
+  }
+  
+  .aboutcontainer ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .aboutcontainer li {
+    margin-bottom: 10px;
+  }
+  
+  .about img {
+    max-width: 10%;
+    height: auto;
+    margin-top: 20px;
+  }
+  
+  /* Add any other styles you want for Navbar, or customize as needed */
+  
